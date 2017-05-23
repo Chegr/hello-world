@@ -1,3 +1,1 @@
-# hello-world
-
-w00t!
+# Chegr's repo
